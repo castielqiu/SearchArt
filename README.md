@@ -1,2 +1,5 @@
-An App use The Art Institute of Chicago's API to display artworks. Include search component and Card componend to display art Image and Title.
-React.JS + Reactbootsrap + Evergreen UI framework (for search component)
+   Fetch data by using "The Art Institute of Chicago's API" and display artworks.    
+   
+   App include search component and Card componend to display art Image and Title.   
+      
+   React.JS + Reactbootsrap + Evergreen UI framework (for search component)
